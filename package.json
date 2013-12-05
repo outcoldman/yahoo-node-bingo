@@ -1,0 +1,29 @@
+{
+  "name": "yahoo-node-bingo",
+  "version": "0.0.1",
+  "author": {
+    "name": "Denis Gladkikh",
+    "email": "outcoldman@gmail.com",
+    "url": "http://outcoldman.com"
+  },
+  "description": "Client for http://yahoobingo.herokuapp.com/",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:outcoldman/yahoo-node-bingo.git"
+  },
+  "keywords": [
+    "comments", "commentaries", "dialogues"
+  ],
+  "homepage": "https://github.com/outcoldman/yahoo-node-bingo",
+  "bugs": {
+    "url": "https://github.com/outcoldman/yahoo-node-bingo/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "*"
+  }
+}
